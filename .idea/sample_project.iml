@@ -51,8 +51,8 @@
     <orderEntry type="library" scope="PROVIDED" name="guard-spork (v1.5.0, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.4, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v1.4.2, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v3.0.1, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v1.0.2, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v2.2.1, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.0, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json_pure (v1.8.0, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v1.2.2, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
@@ -93,7 +93,7 @@
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.1.0, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.14, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v1.2.0, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v1.1.1, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.37, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.1.1, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="will_paginate (v3.0.4, RVM: ruby-2.0.0-p195 [railstutorial_rails_4_0]) [gem]" level="application" />
